@@ -4,6 +4,10 @@ title:  "Do fundamento à aplicação: Árvores Métricas"
 author: Weslley
 date:   2020-02-16 10:00:00 -0300
 categories: data-science machine-learning
+
+excerpt: "Neste artigo vamos percorrer rapidamente sobre uma estrutura de dados bastante interessante (Árvores métricas) e como ela pode ser aplicada na vida real."
+header:
+  overlay_color: "#333"
 ---
 
 Este será o primeiro artigo de uma série chamada "Do fundamento à aplicação", que abordará, através de exemplos e pequenas aplicações, a importância de conhecer bem os fundamentos das metodologias e ferramentas que utilizamos em nosso dia-a-dia para que possamos fazer boas escolhas na hora de criar e implementar soluções, sejam elas técnicas ou gerenciais. Além da conexão entre fundamentos e aplicações, haverá uma tentativa de traduzir alguns conceitos para uma linguagem menos formal e técnica.
@@ -25,8 +29,7 @@ Nesta seção, serão abordados, de maneira resumida e com referências para que
 
 Suponha um conjunto de dados com 1000 pontos 2D (x, y), **amostra** a qual será chamada A, cujos valores de x e y variem entre 0 e 1([0,1]²), intervalo o qual pode ser chamado de **domínio** (D).
 
-
-{% highlight python %}
+```python
 import random
 import pandas as pd
 import numpy as np
@@ -36,7 +39,7 @@ def generate_random_df_2d(x_size: int, y_size: int) -> pd.DataFrame:
         random float numbers between 0 and 1
     """
     return pd.DataFrame(np.random.random_sample(size=(x_size, y_size)))
-{% endhighlight %}
+```
 
 Toda vez que um conjunto de objetos, seja o objeto numérico (como o os números inteiros ou reais) ou de outro tipo (palavras, imagens, etc.) ter uma métrica bem definida que pode ser associada, então este conjunto pode ser classificado como um espaço métrico.
 
@@ -51,6 +54,10 @@ De uma perspectiva mais próximo da matemática, uma métrica existe quando os p
 
 Do ponto de vista mais intuitivo, uma métrica remete à distância entre dois pontos (ou objetos), como duas pessoas em uma praça (cuja distância pode ser medida em linha reta) ou duas localizações em uma cidade (cuja distância pode ser medida em linha reta ou através do trajeto a ser percorrido nas ruas). Entretanto, tal conceito também pode ser aplicado a tipos de objetos não muito comuns, como música (que tem métricas bem definidas) ou palavras, que possuem distância de edição entre si (que abordaremos em mais detalhes mais à frente).
 
+| ![Inequality triangle](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vector_triangle_inequality.PNG/800px-Vector_triangle_inequality.PNG) | 
+|:--:| 
+| *Figura ilustrando o Teorema da Desigualdade Triangular* |
+
 ### Distância de edição
 
 A distância de edição entre duas strings é a contagem de operações que precisam ser realizadas para uma string transforme-se (ou torne-se igual) à outra, sendo que as operações possíveis são:
@@ -61,7 +68,7 @@ A distância de edição entre duas strings é a contagem de operações que pre
 
 Sendo assim, dado um conjunto de palavras ou sentenças (também chamado de corpus), é possível encontrar a distância de edição entre uma referência (que pode ser uma palavra qualquer de seu corpus). Abaixo segue um trecho simples de código para calcular a distância entre duas palavras:
 
-{% highlight python %}
+```python
 # Install it by "pip install python-Levenshtein"
 from Levenshtein import distance
 
@@ -70,7 +77,7 @@ def calculate_distance(str_1, str_2):
       editon distance
   """
   return distance(str_1, str_2)
-{% endhighlight %}
+```
 
 ```
 In [1]: calculate_distance(“motocicleta”, “bicicleta”) 
@@ -87,16 +94,20 @@ Voltando à nossa aplicação de interesse, a distância de edição de Levensht
 
 Para a construção da árvore propriamente dita, basta escolhermos um termo arbitrário (que chamarei de termo de referência) do corpus e calcular a distância de todos os outros termos com relação à referência, e organizar as tuplas (palavra, distância) como uma árvore indexada a partir da distância à referência.
 
+| ![BK Tree](https://media.geeksforgeeks.org/wp-content/uploads/17555345_1350416661709467_503833975_n.png) | 
+|:--:| 
+| *Ilustração de uma árvore BK a partir de algumas palavras em inglês* |
+
 Abaixo segue um trecho de código mostrando como criar e usar uma árvore BK a partir de: uma lista de palavras (strings) e uma métrica de distância de edição escolhida (Levenshtein).
 
-{% highlight python %}
+```python
 # pip install pybktree && pip install python-Levenshtein
 from pybktree import BKTree
 from Levenshtein import distance as levenshtein_distance
 
 WORDS_LIST = ['car', 'house', 'jar', 'mouse', 'engineer', 'pioneer', 'Jamaica']
 tree = BKTree(levenshtein_distance, WORDS_LIST)
-{% endhighlight %}
+```
 
 Se pedirmos a impressão ordenada da árvore, lembrando que o termo de referência dela é arbitrário, teremos uma lista de palavras ordenadas pelas distância de edição à primeira palavra da lista:
 
@@ -141,7 +152,3 @@ Entretanto, entender como o núcleo da solução funciona lhe permite entender m
   - http://www.ppgia.pucpr.br/~alceu/mestrado/edit_distance.pdf
   - https://en.wikipedia.org/wiki/BK-tree
   - https://pt.wikipedia.org/wiki/Problema_do_caixeiro-viajante
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

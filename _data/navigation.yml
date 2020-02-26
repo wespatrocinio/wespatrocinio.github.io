@@ -1,5 +1,5 @@
 main:
-  - title: "About me"
+  - title: "Sobre mim"
     url: /about/
-  # - title: "Posts"
-  #   url: /posts/
+  - title: "Posts"
+    url: /year-archive/

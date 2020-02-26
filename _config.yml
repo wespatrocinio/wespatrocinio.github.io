@@ -30,8 +30,8 @@ twitter_username: wespatrocinio
 github_username:  wespatrocinio
 
 # Build settings
+
 # theme: minima
-# theme: jekyll-theme-hacker
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 

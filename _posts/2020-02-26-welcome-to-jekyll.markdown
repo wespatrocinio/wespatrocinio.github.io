@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to Jekyll!"
+author: Weslley
 date:   2020-02-26 10:16:20 -0300
 categories: jekyll update
 ---

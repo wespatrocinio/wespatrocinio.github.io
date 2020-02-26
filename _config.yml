@@ -32,7 +32,7 @@ github_username:  wespatrocinio
 # Build settings
 # theme: minima
 # theme: jekyll-theme-hacker
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 defaults:
@@ -51,6 +51,11 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
 
 include: ["_pages"]
 

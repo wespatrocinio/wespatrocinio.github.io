@@ -18,14 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: wespatrocinio
+title: wespatrocinio's blog
 email: wespatrocinio@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Este é meu blog pessoal onde compartilharei conteúdo relacionado ao meu trabalho com Ciência de Dados, Machine Learning, Software e correlatos. Haverá conteúdo técnico, tópicos de gestão e também opiniões sobre tecnologia e situações cotidianas.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "wespatrocinio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wespatrocinio
 github_username:  wespatrocinio
 

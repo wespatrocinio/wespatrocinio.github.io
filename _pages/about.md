@@ -27,7 +27,7 @@ Ao longo da graduação, tive duas "carreiras" acadêmicas:
 
 ### [IFSC-USP] Mestrado
 
-Em 2010 comecei a realizar a pós-Graduação em Física Aplicada, também no IFSC-USP, dando continuidade ao trabalho que iniciei na minha segunda Iniciação Científica. Ao longo do Mestrado, mudei o foco da modelagem e simulação para a spintrônica, onde passei a explorar também as propriedades magnéticas de estruturas semicondutoras. Neste período também explorei conceitos novos (na época) de _High Performance Computing_ como Computação Heterogênea, processamento de GPUs (CUDA, OpenCL), Arquitetura IBM Cell, entre outros.
+Em 2010 comecei a realizar a pós-Graduação em Física Aplicada, também no IFSC-USP, dando continuidade ao trabalho que iniciei na minha segunda Iniciação Científica. Ao longo do Mestrado, mudei o foco da modelagem e simulação para a spintrônica, onde passei a explorar também as propriedades magnéticas de estruturas semicondutoras. Neste período também explorei conceitos novos (na época) de _High Performance Computing_ como Computação Heterogênea, processamento de GPUs (CUDA, OpenCL), Arquitetura IBM Cell, entre outros. O resultado foi esta [dissertação](https://teses.usp.br/teses/disponiveis/76/76132/tde-27042010-083948/pt-br.php) defendida em Abril de 2010.
 
 ### [von Braun Labs] Pesquisador em Nanotecnologia
 
@@ -36,3 +36,79 @@ No ano de 2010, logo após defender meu Mestrado, me juntei ao time de Nanotecno
 Este trabalho, além de artefatos de Propriedade Intelectual privada, resultou na publicação deste [artigo](https://www.sciencedirect.com/science/article/abs/pii/S0921510712001237) na revista [Materials Science and Engineering: B](https://www.sciencedirect.com/journal/materials-science-and-engineering-b)
 
 ## Carreira na indústria
+
+### [von Braun Labs] Desenvolvedor de Software
+
+Após a finalização do projeto com a Toshiba, decidi deixar a carreira acadêmica e me voltar para uma carreira na indústria. O próprio von Braun Labs me ofereceu uma oportunidade para trabalhar como Desenvolvedor de Software, uma vez que minha formação e carreira acadêmica até então havia me dado bastante conhecimento e habilidade para desenvolver software.
+
+Nesta etapa da minha carreira, participei de projetos como:
+- Desenvolvimento de _firmware_ para o chip T6ND1, da Toshiba (o qual era utilizado no passaporte eletrônico japonês, na época). Neste projeto tive oportunidade de trabalhar com desenvolvimento de baixo nível, implementando todo a camada de comunicação do protocolo [ISO 14443](https://en.wikipedia.org/wiki/ISO/IEC_14443) em rotinas de autodiagnóstico de _hardware_;
+- Desenvolvimento de aplicação NFC, usando leitores USB e _smartphones_ Android, para prova de conceito de um Cartão Fiscal que substituiria a Nota Fiscal em papel, para uma iniciativa chamada [Brasil-ID](http://brasil-id.org.br/) em conjunto com algumas Secretarias de Fazenda de estados brasileiros;
+
+### [von Braun Labs] Coordenador de Desenvolvimento de Web/mobile Apps
+
+- Prototipação e venda técnica de projeto;
+- Formação e expansão da equipe;
+- Aplicativos ENEM para Lenovo (Windows 8);
+- Aplicativos para CNA (Android e iOS);
+- Website do von Braun Labs;
+- Aplicativos e jogos proprietários do von Braun Labs;
+
+### [von Braun Labs] Gerente de Desenvolvimento de Sistemas
+
+- Brasil-ID;
+- EPL;
+- Implantação de projeto piloto junto à transportadoras;
+
+### [Catho] Especialista em Data Science
+
+- Leads de captação de vagas;
+
+### [Catho] Gerente de Data Science
+
+- Recomendações de vagas e candidatos (produto e CRM);
+- Expansão do time;
+- Expansão de iniciativas para outros países do grupo SEEK;
+
+### [Pra Construir] CTO
+
+
+### [Telefonica] Especialista em Data Science
+
+- Re-estruturação da operação do time;
+- Retenção de clientes pós-pago da Vivo;
+- Identificação de clientes PJ em planos PF;
+- Fraude de clonagem de cartões SIM;
+- Mobilidade;
+
+### [Daitan Group] Arquiteto de AI & Analytics
+
+#### Daitan
+- Primeiro Data Scientist da empresa;
+- Estruturação de processos de contratação, inovação e vendas de projetos de DS;
+- _Community of pratice_ de AI;
+
+#### Symphony
+- Início da área de dados na Symphony
+- Manutenção e melhorias do pipeline legado de dados
+- Pipeline de dados para _onboarding_ de usuários
+- Expansão do time;
+- Protótipo de API para DLP (_Data-loss prevention_)
+
+### [iFood] Coordenador de Data Science
+
+- Re-estruturação da operação do time;
+- Modelo anti-fraude de pagamentos online;
+- Recomendação de restaurantes (Produto e CRM);
+- Classificação de cardápio;
+- _Time series_ para identificação de incidentes;
+- Implantação de _framework_ e _guild_ de Testes A|B na empresa;
+- Personalização de _ranking_ de restaurantes;
+
+### [SEEK] Gerente de Inteligência Artificial
+
+- Exploração de geolocalização em _engines_ de Busca;
+- Gestão da operação das plataformas Americas (Brazil e México);
+- Implantação de cultura MLOps no time;
+- Reestruturação da equipe;
+- Melhoria de CRM com conteúdo personalizado;

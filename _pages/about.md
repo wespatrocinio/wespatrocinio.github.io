@@ -92,47 +92,76 @@ Após 9 meses como _Tech Lead_, fui promovido a Gerente do time de Data Science,
 - Desenvolvimento de um recomendador de CVs _real time_ para vagas recém publicadas na Catho;
 - Uso de recomendações de vagas para alimentar campanhas de CRM (e-mail e notificações _push_).
 
-No meio desta jornada, nossas ações ganharam repercussão dentro do grupo SEEK e passamos a realizar também desenvolvimento de recomendadores de vagas para a OCC, empresa mexicana do grupo.
+No meio desta jornada, nossas ações ganharam repercussão dentro do grupo SEEK e passamos a realizar também desenvolvimento de recomendadores de vagas para a OCC, empresa mexicana do grupo, com objetivo de aumentar o engajamento de candidaturas com o envio de recomendações via push/email logo após uma sessão de candidaturas dos usuários. O sucesso desta iniciativa mostrou nossa capacidade em entregar valor em múltiplos países, resultando na migração de nosso time da Catho para a SEEK, que controla Catho e OCC, formando uma Plataforma Global de Entrega (_Global Delivery Platform_ - GDP) de Inteligência Artificial. Com isso, expandimos o time contratando mais pessoas, abrimos um novo pólo em Belo Horizonte (MG) para aumentar nosso poder de contratação, expatriamos pessoas do time para a Austrália e passamos a ter atuação em Brasil, México e Malásia.
 
-
-- Recomendações de vagas e candidatos (produto e CRM);
-- Expansão do time;
-- Expansão de iniciativas para outros países do grupo SEEK;
+Entretanto, tal situação trouxe algumas conflitos entre minha vida pessoal e profissional e, por priorizar a parte pessoal, acabei deixando o time e seguindo para um novo desafio que me permitisse um melhor balanço pessoal-profissional.
 
 #### [Pra Construir] CTO
 
+Junto com a minha etapa como Gerente de Data Science da Catho, surgiu a oportunidade de empreender junto com alguns bons amigos no desenvolvimento do PraConstruir: um _marketplace_ de materiais de construção para facilitar a cotação e compra programada para obras em geral. O propósito do negócio em si foi atingir um público com obras de médio e grande porte e que tinham necessidades mais programadas, e não compras urgentes.
+
+Como CTO, desempenhei o papel de guia da concepção e validação do Produto propriamente dito (MVP, _Value proposition Canvas_, etc.), além de liderar o desenvolvimento do mesmo até o ponto de estarmos prontos para o lançamento. A partir daí, os outros sócios assumiram a parte Operacional do negócio (Marketing, Vendas, entre outros) enquanto eu focava em usar a tecnologia para viabilizar e desbloquear nossas estratégicas.
+
+Resumo: não fomos bem sucedidos e o empreendimento não deu certo após nos dedicarmos por 2 anos. Acredito que desenvolvemos um bom produto, porém não conseguimos vencer as barreiras de um mercado que tem pouca presença _online_ e subestimamos alguns investimentos que seriam necessários em etapas de crescimento. Entretanto, foi um período de bastante aprendizado. O nosso [Blog PraConstruir](http://blogpraconstruir.com.br/) continua no ar, caso queiram conferir!
 
 #### [Telefonica] Especialista em Data Science
 
-- Re-estruturação da operação do time;
-- Retenção de clientes pós-pago da Vivo;
-- Identificação de clientes PJ em planos PF;
-- Fraude de clonagem de cartões SIM;
-- Mobilidade;
+Na metade de 2016 me juntei ao time de Data Science da Telefonica Brasil, um time que havia sido formado cerca de 6 meses antes e fazia parte da Diretoria de BI & Big Data da empresa. Tal time tinha um foco menos tecnológico e mais _decision science_ que a minha posição anterior, o que exigiu alguma adaptação. Outra questão que exigiu adaptação foi a parte corporativa, afinal fazia parte de um grupo centenário com quase 300 mil funcionários em todo o mundo.
+
+Nesta etapa de minha carreira, tive dois desafios:
+- O desafio técnico, para utilizar habilidades de modelagem para suportar o negócio assim como ajudar a empresa com a melhoria da infraestrutura de armazenamento e processamento de dados, uma vez que tínhamos que usar recursos _on-premises_ (caso comum em empresas de telecomunicações sob as normas da ANATEL);
+- O desafio de liderança, pois a operação do time não estava muito bem encaixada e a produtividade estava muito abaixo da expectativa da empresa. Foram alguns meses tensos identificando e corrigindo o _modus operandi_ do time até chegarmos em um formato de melhor encaixe.
+
+Após tal reestruturação, foi possível entrar em "velocidade de cruzeiro" e realizar diversas iniciativas de _Data Science_ com menos fricção do dia-a-dia. Dentre elas, os destaques são:
+
+- **Retenção de clientes pós-pago da Vivo:** previsão de _churn_ de clientes e modelagem de uma abordagem sensível ao custo (_cost sensitive_) de retenção ao cliente, apontando estratégias para manter a alta taxa de retenção com menor custo;
+- **Identificação de clientes PJ em planos PF:** modelagem e identificação de _clusters_ de clientes com perfil Pessoa Jurídica (PJ) em planos _high-end_ de Pessoa Física (PF), que possuiam altas franquias de dados e vários dependentes da linha. Tal iniciativa suportou a tomada de decisão da criação de planos PJ com as mesmas características de uso e preço;
+- **Identificação de fraude de clonagem de cartões SIM:** utilização de dados geográficos de utilização da linha telefônica móvel (chamadas e dados), foi construído um modelo que identificava casos de clonagem e alimentaria uma operação de segurança dos clientes;
+- **Mobilidade de clientes:** utilização de dados geográficos de utilização de dados para modelar a mobilidade de clientes, para suportar o planejamento de infraestrutura da empresa em implantação, manutenção e melhoria das ERBs;
+
+Após cerca de 1 ano, mudanças estruturais na empresa trouxeram um novo escopo para a nossa área, que passaria a trabalhar na implantação de outras plataformas na empresa, ao invés de desenvolver iniciativas para melhorar a performance do negócio. Com isso, decidi procurar outro desafio - assim como todo o restante da equipe.
 
 #### [Daitan Group] Arquiteto de AI & Analytics
 
-##### Daitan
-- Primeiro Data Scientist da empresa;
-- Estruturação de processos de contratação, inovação e vendas de projetos de DS;
-- _Community of pratice_ de AI;
+Meu desafio seguinte foi na Daitan, voltando para o mundo do P&D em Campinas. A empresa estava planejando seus primeiros passos em _Data Science_ e _AI_ e fui contratado como o primeiro _Data Scientist_ da empresa, onde vestiria dois chapéus:
+
+##### Chapéu Daitan
+
+Enquanto recurso da Daitan, contribuiria para a estruturação de diversos processos dentro da empresa, para que a mesma ganhasse tração em AI e conseguisse crescer neste mercado. Os principais processos que contribui na estruturação foram:
+- Vendas de projetos, interagindo diretamente com o _board_ da empresa, assim como o time de Inovação, treinando-os na avaliação de oportunidades de aplicação de AI, assim como na estruturação de propostas de soluções técnicas a serem apresentadas aos potenciais clientes;
+- Contratação, colaborando com o time de _Hiring_ no desenho de processos específicos para a contratação de profissionais do mercados de dados, desenhando roteiros de entrevista, treinando Gerentes e participando de decisões finais de contratação;
+- Formação de uma comunidade de prática de AI (CoP - _Community of practice_), para compartilhar conhecimento e engajar pessoas da empresa na utilização de AI em seu cotidiano.
 
 ##### Symphony
-- Início da área de dados na Symphony
-- Manutenção e melhorias do pipeline legado de dados
-- Pipeline de dados para _onboarding_ de usuários
-- Expansão do time;
-- Protótipo de API para DLP (_Data-loss prevention_)
+
+Como papel principal, eu assumi o papel de Arquiteto de Analytics & AI para um cliente da Daitan: a [Symphony](www.symphony.com) começando o time de dados da empresa junto ao diretor de BI da Symphony. Nesta iniciativa, desempenhei um papel _fullstack_ por algum tempo, atuando da infraestrura até a aplicação. As principais iniciativas desta etapa foram:
+
+- Melhorias na infraestrutura e arquitetura de dados da empresa, saindo de _jobs_ Hive rodando em AWS EMR para uma aplicação Apache Spark rodando em AWS Data Pipeline com melhoria de performance e redução de custo;
+- Modelagem de Data Warehouse (AWS RedShift);
+- Implantação e manutenção de ferramenta de visualização de dados (Domo) que era utilizada por toda a empresa e também por alguns clientes da Symphony;
+- Implantação de _pipeline_ de dados e recomendações para _onboarding_ de usuários na plataforma, recomendando conexões e comportamentos para os novos usuários e aumentando a base de usuários ativos na ferramenta;
+- Migração de processos da nuvem AWS para Google Cloud;
+- Protótipagem de API para identificação de dados sensíveis em conteúdo trafegado na plataforma (_Data-loss prevention_ - DLP);
+
+Enquanto estava na Daitan, recebi uma proposta de uma empresa na qual tinha vontade de trabalhar há algum tempo e não pude recusar.
 
 #### [iFood] Coordenador de Data Science
 
-- Re-estruturação da operação do time;
-- Modelo anti-fraude de pagamentos online;
-- Recomendação de restaurantes (Produto e CRM);
-- Classificação de cardápio;
-- _Time series_ para identificação de incidentes;
-- Implantação de _framework_ e _guild_ de Testes A|B na empresa;
-- Personalização de _ranking_ de restaurantes;
+Meu "namoro" com o iFood começou quando eu estava de saída da Telefonica. Havia participado de um processo seletivo e fui recusado por ser muito Sênior para o momento da área. Ao longo do ano que se passou, acabei ficando próximo do time de _Data Science_ do iFood via [Meetup Data Science Campinas]() até que surgiu uma posição com o meu perfil.
+
+Entrei no iFood com a missão de ajudar a organizar melhor o time e aumentar o volume e relevância das entregas do time, o qual era multidisciplinar e tinha capacidade de atuar de maneira diversa. Boa parte do esforço de reorganização esteve em identificar as atividades que cada pessoa tinha maior capacidade de entrega, assim como os pontos onde cada um precisa se desenvolver e criar um plano para tal desenvolvimento.
+
+Após nos reorganizarmos, começamos um ciclo muito interessante de entregas dentro da empresa. As principais contribuições desta etapa foram:
+
+- **Finalização da plataforma de modelos (Alfred):** o time de _Data_ já tinha desenvolvido uma plataforma inspirada no [Michelangelo](https://eng.uber.com/michelangelo-machine-learning-platform/), entretanto nenhum modelo tinha ido para produção em alta escala e alguns ajustes foram necessários;
+- **Modelo anti-fraude de pagamentos _online_:** com um alto volume de pedidos pagos pelo aplicativo (via cartão de crédito), a utilização de plataformas terceiras para detecção de fraudes de pagamento tornou-se uma barreira para o cresimento da operação do time de _Payments_. Com esta motivação, desenvolvemos um modelo anti-fraude de transações de cartão de crédito pelo app com melhor assertividade que os serviços terceiros anteriores, o que reduziu o custo operacional pela redução de _chargebacks_ e também pelo não pagamento por cada transição validada em serviço terceiro. Esta iniciativa foi um fator que alavancou o crescimento da área de pagamentos do iFood, que acabou virando uma _spin-off_ e foi a semente do que hoje é a Movile Pay;
+- **Recomendação de restaurantes (Produto e CRM):** desenvolvemos um algoritmo de recomendação personalizada para sugerir, aos clientes, restaurantes aderentes ao seu perfil e impactar na conversão de compra. Não tivemos muito sucesso nas recomendações dentro do app, mas as campanhas de CRM via notificações _push_ foram muito bem sucedidas;
+- **Previsão de localização do pedido:** como a localização do cliente era uma informação chave para ações _offline_ do iFood, construímos um modelo que previa a localização para onde o cliente faria pedido ao longo da semana, com alto índice de assertividade;
+- **_Time series_ para identificação de incidentes:** para permitir uma maior reatividade da empresa em incidentes operacionais, desenvolvemos um modelo de Série Temporal que previa o volume de pedidos a serem recebidos a cada 15 minutos. Com esta previsão, nos tornamos capazes de identificar incidentes rapidamente e notificar todas as áreas envolvidas;
+- **Implantação de _framework_ e _guild_ de Testes A|B na empresa:** ao chegar no time, já havia sido desenvolvido um _framework_ para o desenho, execução e análise de resultados de Testes A|B. Meu esforço foi em contribuir na implantação deste _framework_ dentro do time de Produtos e realizar ajustes no _framework_ de acordo com novos cenários incobertos que surgissem;
+- **Personalização de _ranking_ de restaurantes:** nesta iniciativa, foi realizado um esforço de infraestrutura para que a ordenação do _ranking_ de restaurantes fosse realizada pela nossa plataforma, e não dentro do banco de dados. Com isso, passamos a modelar a ordenação do _ranking_ de forma a aumentar a liquidez de restaurantes recebendo pedidos;
+
+Por mais que tenha sido intensa, a minha passagem pelo iFood concorreu com diversos problemas pessoais e familiares. Ao sentir que não estava dando conta de levar minha vida pessoal e profissional com qualidade, decidi deixar o iFood, pois os próximos passos exigiriam um esforço o qual não conseguiria desempenhar sem sacrifícios pessoais.
 
 #### [SEEK] Gerente de Inteligência Artificial
 

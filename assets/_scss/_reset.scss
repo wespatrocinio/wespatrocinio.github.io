@@ -1,0 +1,21 @@
+
+/* ==========================================================================
+   STYLE RESETS
+   ========================================================================== */
+
+   @include border-box-sizing;
+
+   html {
+     /* apply a natural box layout model to all elements */
+     box-sizing: border-box;
+     background-color: $background-color;
+     font-size: 16px;
+     font-family: "Garamond", Times, serif; // Included by me
+   
+     @include breakpoint($medium) {
+       font-size: 18px;
+     }
+   
+     -webkit-text-size-adjust: 100%;
+     -ms-text-size-adjust: 100%;
+   }

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Usando Data Science em produtos legados"
 author: Weslley
 date:   2015-09-30

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Data Science é metodologia, e não tecnologia"
 author: Weslley
 date:   2017-07-25

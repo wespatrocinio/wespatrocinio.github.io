@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Precisamos falar mais sobre metas em Data Science"
 author: Weslley
 date:   2017-07-10

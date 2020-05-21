@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Não incentive o _Night Hero_ em seu time"
 author: Weslley
 date:   2020-01-27

@@ -10,6 +10,7 @@
      box-sizing: border-box;
      background-color: $background-color;
      font-size: 16px;
+     font-family: "Garamond", Times, serif; // Included by me
    
      @include breakpoint($medium) {
        font-size: 18px;

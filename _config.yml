@@ -29,7 +29,8 @@ github_username:  wespatrocinio
 
 # Build settings
 
-theme: minimal-mistakes-jekyll
+# theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 defaults:
@@ -57,9 +58,6 @@ plugins:
 include: ["_pages"]
 
 locale: pt-BR
-
-search: true
-paginate: 10
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

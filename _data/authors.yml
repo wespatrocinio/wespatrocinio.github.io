@@ -14,3 +14,6 @@ Weslley:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/wespatrocinio"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/wespatrocinio"

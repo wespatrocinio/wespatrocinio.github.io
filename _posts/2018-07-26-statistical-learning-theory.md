@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "__Statistical Learning Theory_ — você deveria usar mais do que imagina"
+title:  "_Statistical Learning Theory_ — você deveria usar mais do que imagina"
 author: Weslley
 date:   2017-07-25
 categories: data-science machine-learning

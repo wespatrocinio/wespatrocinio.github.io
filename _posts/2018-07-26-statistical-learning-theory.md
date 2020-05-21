@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Statistical Learning Theory — você deveria usar mais do que imagina"
+title:  "__Statistical Learning Theory_ — você deveria usar mais do que imagina"
 author: Weslley
 date:   2017-07-25
 categories: data-science machine-learning
@@ -10,18 +10,18 @@ header:
   overlay_color: "#367"
 ---
 
-Tem aumentado a frequência em que eu escuto profissionais e simpatizantes de Data Science minimizando (ou até desprezando) a importância de conhecimento em Estatística para a criações de soluções baseadas em Inteligência Artificial e/ou Machine Learning. Isso sempre me remete a mesma preocupação com relação a uma etapa importante da modelagem e que está cada vez mais sendo negligenciada: a validação de algumas premissas necessárias para que ocorra aprendizado supervisionado em um domínio de dados.
+Tem aumentado a frequência em que eu escuto profissionais e simpatizantes de _Data Science_ minimizando (ou até desprezando) a importância de conhecimento em Estatística para a criações de soluções baseadas em Inteligência Artificial e/ou _Machine Learning_. Isso sempre me remete a mesma preocupação com relação a uma etapa importante da modelagem e que está cada vez mais sendo negligenciada: a validação de algumas premissas necessárias para que ocorra aprendizado supervisionado em um domínio de dados.
 
-Por conta disso, eu gostaria de trazer à tona alguns conceitos básicos de Statistical Learning Theory que abordam algumas premissas que um bom conjunto de dados pode ter para que uma seja possível a construção preditiva baseada em dados, ou seja, para garantir que um algoritmo será capaz de aprender corretamente.
+Por conta disso, eu gostaria de trazer à tona alguns conceitos básicos de _Statistical Learning Theory_ que abordam algumas premissas que um bom conjunto de dados pode ter para que uma seja possível a construção preditiva baseada em dados, ou seja, para garantir que um algoritmo será capaz de aprender corretamente.
 
 | ![](/assets/images/tirinha-bias.gif) |
 |:--:| 
 |*http://letterstoayounglibrarian.blogspot.com/2016/04/on-bias.html*|
 
 
-Usando uma linguagem mais cotidiana, estamos falando do famoso BIAS, que ocorre quando uma de suas variáveis contém a distribuição de probabilidade de seu alvo. Por exemplo, se você está tentando prever se uma pessoa é completamente careca ou não, ter uma variável que contém o número de fios de cabelo que cada indivíduo tem incluirá a distribuição de carecas no treinamento, dado que o fator que determina a classe do indivíduo é ele ter fios de cabelo ou não. Portanto, seu algoritmo lhe fornecerá um diagnóstico, e não uma previsão.
+Usando uma linguagem mais cotidiana, estamos falando do famoso _BIAS_, que ocorre quando uma de suas variáveis contém a distribuição de probabilidade de seu alvo. Por exemplo, se você está tentando prever se uma pessoa é completamente careca ou não, ter uma variável que contém o número de fios de cabelo que cada indivíduo tem incluirá a distribuição de carecas no treinamento, dado que o fator que determina a classe do indivíduo é ele ter fios de cabelo ou não. Portanto, seu algoritmo lhe fornecerá um diagnóstico, e não uma previsão.
 
-Para mitigar tal tipo de problema, uma análise de covariância ou de dependência linear entre suas variáveis e seu alvo podem lhe ajudar a identificar a ocorrência de BIAS.
+Para mitigar tal tipo de problema, uma análise de covariância ou de dependência linear entre suas variáveis e seu alvo podem lhe ajudar a identificar a ocorrência de _BIAS_.
 
 ## A distribuição de probabilidade de seu alvo deve ser estática
 

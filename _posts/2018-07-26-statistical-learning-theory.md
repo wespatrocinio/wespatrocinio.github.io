@@ -7,7 +7,8 @@ categories: data-science machine-learning
 
 excerpt: "Neste artigo vamos falar um pouco sobre alguns conceitos básicos da Teoria do Aprendizado Estatístico e como isso é importante no dia-a-dia de um _Data Scientist_."
 header:
-  overlay_color: "#367"
+  overlay_image: /assets/images/matrix_background.jpg
+  overlay_filter: 0.7
 ---
 
 Tem aumentado a frequência em que eu escuto profissionais e simpatizantes de _Data Science_ minimizando (ou até desprezando) a importância de conhecimento em Estatística para a criações de soluções baseadas em Inteligência Artificial e/ou _Machine Learning_. Isso sempre me remete a mesma preocupação com relação a uma etapa importante da modelagem e que está cada vez mais sendo negligenciada: a validação de algumas premissas necessárias para que ocorra aprendizado supervisionado em um domínio de dados.

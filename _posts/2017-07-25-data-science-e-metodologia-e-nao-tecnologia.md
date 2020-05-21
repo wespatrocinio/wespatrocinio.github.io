@@ -7,7 +7,8 @@ categories: data-science machine-learning
 
 excerpt: "Neste artigo vamos falar um pouco sobre o significado de _Data Science_ e como eu diferencio está área de outras áreas de dados."
 header:
-  overlay_color: "#367"
+  overlay_image: /assets/images/matrix_background.jpg
+  overlay_filter: 0.7
 ---
 
 Assim como P&D (Pesquisa e Desenvolvimento), _Data Science_ sofre com o desbalanço entre as ponderações dos termos. Em P&D, o Desenvolvimento tem um peso muito mais forte que Pesquisa. Em _Data Science_, o _Data_ ganhou muito mais peso e dominou as falácias de corredores e _Meetups_. Porém não se engane: _we're talking about Science, bitch_!

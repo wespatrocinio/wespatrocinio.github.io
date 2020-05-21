@@ -7,7 +7,8 @@ categories: data-science machine-learning
 
 excerpt: "Neste artigo vamos percorrer rapidamente sobre uma estrutura de dados bastante interessante (Árvores métricas) e como ela pode ser aplicada na vida real."
 header:
-  overlay_color: "#367"
+  overlay_image: /assets/images/matrix_background.jpg
+  overlay_filter: 0.7
 ---
 
 Este será o primeiro artigo de uma série chamada "Do fundamento à aplicação", que abordará, através de exemplos e pequenas aplicações, a importância de conhecer bem os fundamentos das metodologias e ferramentas que utilizamos em nosso dia-a-dia para que possamos fazer boas escolhas na hora de criar e implementar soluções, sejam elas técnicas ou gerenciais. Além da conexão entre fundamentos e aplicações, haverá uma tentativa de traduzir alguns conceitos para uma linguagem menos formal e técnica.

@@ -7,7 +7,8 @@ categories: data-science machine-learning
 
 excerpt: "Neste artigo vamos falar um pouco sobre alguns pontos de atenção na integração de um produto que já existe há algum tempo e um modelo feito por _Data Scientists_."
 header:
-  overlay_color: "#367"
+  overlay_image: /assets/images/matrix_background.jpg
+  overlay_filter: 0.7
 ---
 
 Sem dúvida alguma, _data science_ é um dos temas mais quentes do momento. Empresas dos mais diversos segmentos usam (ou querem usar) ciência de dados para melhorar seus produtos & processos, aumentando o valor percebido de seus clientes a um baixo custo operacional. A avalanche de novos produtos criados em plena era das startups já consideram os benefícios das informações extraídas dos sofisticados algoritmos. Entretanto, as empresas que já possuem produtos e operações há mais tempo tem um desafio a mais: como conectar meus produtos legados à tal inteligência?

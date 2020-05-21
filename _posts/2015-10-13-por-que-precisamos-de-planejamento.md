@@ -7,7 +7,8 @@ categories: data-science machine-learning
 
 excerpt: "Neste artigo vamos falar um pouco sobre o meu ponto de visto sobre a importância de um bom planejamento e qual o seu principal valor."
 header:
-  overlay_color: "#367"
+  overlay_image: /assets/images/matrix_background.jpg
+  overlay_filter: 0.7
 ---
 
 Quem tem vivência no mundo corporativo já passou por vários eventos (reuniões, treinamentos, feiras, fóruns, etc) relacionados a planejamento. Planejamentos podem ser massantes, incompletos, inúteis, entre outros atributos negativos, porém há um consenso de que é necessário. E por que?

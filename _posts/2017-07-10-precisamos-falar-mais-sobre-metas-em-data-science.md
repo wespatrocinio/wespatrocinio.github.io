@@ -7,7 +7,8 @@ categories: data-science machine-learning
 
 excerpt: "Neste artigo vamos falar um pouco sobre a importância de metas para uma iniciativa de _Data Science_ e que riscos podem ser mitigados com isso."
 header:
-  overlay_color: "#367"
+  overlay_image: /assets/images/matrix_background.jpg
+  overlay_filter: 0.7
 ---
 
 Eu classifico 2017 como o ano da popularização de iniciativas de _Data Science_ no mercado brasileiro, seja pelo surgimento ou melhoria de ferramentas que catalizam as iniciativas (como os serviços e bibliotecas de AWS, Google, Microsoft, IBM, etc.), pelo aumento do número de profissionais engajados e qualificados na área ou pelo aprendizado que a camada de gestão de negócios teve nos últimos anos neste contexto. O fato é que vemos empresas de diversos tamanhos e segmentos “espremendo” dados para extrair valor de diversas formas.

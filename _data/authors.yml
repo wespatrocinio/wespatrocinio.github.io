@@ -4,6 +4,7 @@ Weslley:
   name        : "Weslley Souza Patrocinio"
   bio         : "Data Scientist"
   avatar      : "/assets/images/wes_profile.jpg"
+  location    : "Campinas - SP, Brasil"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

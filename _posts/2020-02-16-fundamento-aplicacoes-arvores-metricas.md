@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Do fundamento à aplicação: Árvores Métricas"
 author: Weslley
 date:   2020-02-16
@@ -30,7 +30,8 @@ Nesta seção, serão abordados, de maneira resumida e com referências para que
 
 Suponha um conjunto de dados com 1000 pontos 2D (x, y), **amostra** a qual será chamada A, cujos valores de x e y variem entre 0 e 1([0,1]²), intervalo o qual pode ser chamado de **domínio** (D).
 
-```python
+
+{% highlight python %}
 import random
 import pandas as pd
 import numpy as np
@@ -40,7 +41,7 @@ def generate_random_df_2d(x_size: int, y_size: int) -> pd.DataFrame:
         random float numbers between 0 and 1
     """
     return pd.DataFrame(np.random.random_sample(size=(x_size, y_size)))
-```
+{% endhighlight %}
 
 Toda vez que um conjunto de objetos, seja o objeto numérico (como o os números inteiros ou reais) ou de outro tipo (palavras, imagens, etc.) ter uma métrica bem definida que pode ser associada, então este conjunto pode ser classificado como um espaço métrico.
 

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Aumente a visibilidade de AI adotando seu vocabulário no cotidiano"
 author: Weslley
 date:   2020-01-29

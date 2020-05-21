@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Por que precisamos de planejamento?"
 author: Weslley
 date:   2015-10-13

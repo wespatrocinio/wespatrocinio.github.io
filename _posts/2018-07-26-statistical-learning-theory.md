@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "_Statistical Learning Theory_ — você deveria usar mais do que imagina"
 author: Weslley
 date:   2017-07-25

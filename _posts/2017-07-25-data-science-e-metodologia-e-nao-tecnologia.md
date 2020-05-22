@@ -13,9 +13,9 @@ header:
 
 Assim como P&D (Pesquisa e Desenvolvimento), _Data Science_ sofre com o desbalanço entre as ponderações dos termos. Em P&D, o Desenvolvimento tem um peso muito mais forte que Pesquisa. Em _Data Science_, o _Data_ ganhou muito mais peso e dominou as falácias de corredores e _Meetups_. Porém não se engane: _we're talking about Science, bitch_!
 
-| ![](/assets/images/emmet-brown.jpg) |
-|:--:| 
-|*O estereótipo das pessoas sobre os Cientistas.*|
+![](/assets/images/emmet-brown.jpg){: .align-center}
+*O estereótipo das pessoas sobre os Cientistas.*
+{: .text-center}
 
 A Ciência de Dados é constituída de princípios fundamentais que norteiam a extração de conhecimento a partir de dados (assim como Ciências Naturais — como Física e Química) extraem conhecimento de fenômenos naturais. Sendo assim, _data mining_, _machine learning_ e estatística são ferramentas usadas para a extração de conhecimento de um domínio de dados. De maneira mais franca, o que eu quero dizer é que existe _Data Science_ sem _Machine Learning_ e vice-versa, ou seja, um Cientista de Dados não é necessariamente um Engenheiro de _Machine Learning_ e vice-versa.
 

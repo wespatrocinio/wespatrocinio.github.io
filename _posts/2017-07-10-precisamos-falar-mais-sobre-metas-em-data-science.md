@@ -13,9 +13,9 @@ header:
 
 Eu classifico 2017 como o ano da popularização de iniciativas de _Data Science_ no mercado brasileiro, seja pelo surgimento ou melhoria de ferramentas que catalizam as iniciativas (como os serviços e bibliotecas de AWS, Google, Microsoft, IBM, etc.), pelo aumento do número de profissionais engajados e qualificados na área ou pelo aprendizado que a camada de gestão de negócios teve nos últimos anos neste contexto. O fato é que vemos empresas de diversos tamanhos e segmentos “espremendo” dados para extrair valor de diversas formas.
 
-| ![Moises](/assets/images/moises.jpg) |
-|:--:| 
-|*Moisés e seu cajado de METAS dividindo um mar de falácias sobre Data Science.*|
+![Moises](/assets/images/moises.jpg){: .align-center}
+*Moisés e seu cajado de METAS dividindo um mar de falácias sobre Data Science.*
+{: .text-center}
 
 Os últimos anos de evolução deste mercado também ajudaram a definir melhor os papéis e fundamentos envolvidos. _Data Science_ tornou-se um conceito definitivamente genérico e suas aplicações (AI e _Advanced Analytics_, por exemplo) e principais ferramentas (_Machine Learning_, _Deep Learning_, Engenharia de Dados, etc.) tomaram corpo dentro das empresas e cursos/conteúdo de capacitação. Hoje vemos cursos, vagas e cargos muito mais definidos e o mito dos Cientistas de Dados unicórnios (ou "carregadores de piano", na minha visão) sendo desconstruído. Além disso, surgiram equipes e empresas com foco em desenvolver tecnologia específica para determinados domínios de dados, enquanto outras se especializaram na integração de stacks de negócios já existentes com tais tecnologias específicas.
 

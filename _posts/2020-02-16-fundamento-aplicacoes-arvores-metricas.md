@@ -55,9 +55,9 @@ De uma perspectiva mais próximo da matemática, uma métrica existe quando os p
 
 Do ponto de vista mais intuitivo, uma métrica remete à distância entre dois pontos (ou objetos), como duas pessoas em uma praça (cuja distância pode ser medida em linha reta) ou duas localizações em uma cidade (cuja distância pode ser medida em linha reta ou através do trajeto a ser percorrido nas ruas). Entretanto, tal conceito também pode ser aplicado a tipos de objetos não muito comuns, como música (que tem métricas bem definidas) ou palavras, que possuem distância de edição entre si (que abordaremos em mais detalhes mais à frente).
 
-| ![Inequality triangle](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vector_triangle_inequality.PNG/800px-Vector_triangle_inequality.PNG) | 
-|:--:| 
-| *Figura ilustrando o Teorema da Desigualdade Triangular* |
+![Inequality triangle](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vector_triangle_inequality.PNG/800px-Vector_triangle_inequality.PNG){: .align-center}
+*Figura ilustrando o Teorema da Desigualdade Triangular*
+{: .text-center}
 
 ### Distância de edição
 
@@ -95,9 +95,9 @@ Voltando à nossa aplicação de interesse, a distância de edição de Levensht
 
 Para a construção da árvore propriamente dita, basta escolhermos um termo arbitrário (que chamarei de termo de referência) do corpus e calcular a distância de todos os outros termos com relação à referência, e organizar as tuplas (palavra, distância) como uma árvore indexada a partir da distância à referência.
 
-| ![BK Tree](https://media.geeksforgeeks.org/wp-content/uploads/17555345_1350416661709467_503833975_n.png) | 
-|:--:| 
-| *Ilustração de uma árvore BK a partir de algumas palavras em inglês* |
+![BK Tree](https://media.geeksforgeeks.org/wp-content/uploads/17555345_1350416661709467_503833975_n.png){: .align-center}
+*Ilustração de uma árvore BK a partir de algumas palavras em inglês*
+{: .text-center}
 
 Abaixo segue um trecho de código mostrando como criar e usar uma árvore BK a partir de: uma lista de palavras (strings) e uma métrica de distância de edição escolhida (Levenshtein).
 

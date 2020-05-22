@@ -11,9 +11,9 @@ header:
   overlay_filter: 0.7
 ---
 
-| ![](/assets/images/batman-robin-west.jpeg) |
-|:--:| 
-|*Macacos me mordam! As APIs estão indisponíveis novamente, Batman!*|
+![](/assets/images/batman-robin-west.jpeg){: .align-center}
+*Macacos me mordam! As APIs estão indisponíveis novamente, Batman!*
+{: .text-center}
 
 Em tempos de trabalho remoto, ambientes digitais acessíveis de qualquer lugar e comunicação & trabalho assíncronos, eu vejo o surgimento de um novo tipo de profissional, principalmente em times de tecnologia, no qual vejo muitos riscos: o _Night Hero_ (o qual chamarei carinhosamente de NH neste texto). O profissional que estou chamando de NH é a pessoa que está sempre disponível, não importa o dia e horário que a demanda apareça. É 24/7 em alerta, trabalhando aos domingos a noite para garantir que a segunda estará operante, que está sempre alerta para os incidentes e desastres, etc.
 
@@ -27,9 +27,9 @@ O que eu espero de uma pessoa, no aspecto profissional, é que ela trabalhe com 
 
 Voltando para o _Night Hero_, na maior parte dos casos que presenciei e convivi, a causa principal foi a combinação (explosiva) entre uma alta carga de trabalho com uma pessoa com maiores níveis de ansiedade. E ao identificar este cenário, eu, como gestor, entendo que o ideial seria executar ações que i) reduza a carga de trabalho e/ou ii) ajuste os níveis de ansiedade da pessoa. Porém, o que vejo com certa frequência é uma terceira ação: o reconhecimento ($, faz-me-rir, tutu, etc.) dessa pessoa.
 
-| ![](/assets/images/fogueira-gestao.png) |
-|:--:| 
-|*Ao reconhecer uma pessoa por um comportamento específico (de maneira implícita ou explícita), você está fomentando a continuade ou até aumentando a intensidade do mesmo.*|
+![](/assets/images/fogueira-gestao.png){: .align-center}
+*Ao reconhecer uma pessoa por um comportamento específico (de maneira implícita ou explícita), você está fomentando a continuade ou até aumentando a intensidade do mesmo.*
+{: .text-center}
 
 Ao meu ver, o reconhecimento deste tipo de comportamento é um fomento para que ele torne-se latente, ao invés de um mecanismo de desenvolvimento do profissional. Idealmente, o desenvolvimento deveria ser guiado pela gestão de iniciativas que ajudem a mitigar as causas que levaram a este esforço excessivo por parte do NH, aumentando a eficácia do profissional e da equipe.
 
@@ -37,7 +37,7 @@ Isso não impede que o gestor seja grato ao esforço extra feito pela pessoa, ou
 
 - Ao saber que sempre existe alguém disponível para atuar em problemas, pessoas do time podem perder compromisso com práticas preventivas e aumentar a ocorrência de incidentes, sobrecarregando ainda mais o NH;
 - Toda pessoa sobrecarregada pode ser induzida a tomar más decisões e/ou cometer erros técnicos, o que, geralmente, aumenta a quantidade de re-trabalho e a ocorrência de incidentes. Ou seja, aumenta a sobrecarga no NH e do restante do time;
-- Altos níveis de ansiedade e estresse podem causar danos à saúde das pessoas envolvidas, os quais podem graves(quem nunca ouviu a história da pessoa que infartou no escritório depois de um período de alta carga de trabalho? — https://www1.folha.uol.com.br/sobretudo/carreiras/2018/05/1969024-sobrecarga-combinada-a-frustracao-profissional-pode-causar-curto-cicuito.shtml);
+- Altos níveis de ansiedade e estresse podem causar danos à saúde das pessoas envolvidas, os quais podem graves(quem nunca ouviu a [história da pessoa que infartou no escritório depois de um período de alta carga de trabalho](https://www1.folha.uol.com.br/sobretudo/carreiras/2018/05/1969024-sobrecarga-combinada-a-frustracao-profissional-pode-causar-curto-cicuito.shtml)?);
 - As metas associadas à ações preventivas e/ou avaliação da contratação de mais pessoas para o time podem ser despriorizadas, pois o time possui uma “segurança” na sustentação do time feita pelo _Night Hero_;
 
 ## O que eu penso que devo fazer neste tipo de situação?

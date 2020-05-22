@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Meu nome é Weslley, nasci em 1985 e tenho traballhado construído minha carreira em desenvolvimento e aplicações de tecnologia desde 2009. O foco da minha carreira desde 2014 tem sido _Data Science_, _Machine Learning_ e correlatos.
+Meu nome é Weslley, nasci em 1985 e tenho construído minha carreira em desenvolvimento e aplicações de tecnologia desde 2009. O atual foco da minha carreira, desde 2014, tem sido _Data Science_, _Machine Learning_ e correlatos.
 
 ## Primeiros passos profissionais
 

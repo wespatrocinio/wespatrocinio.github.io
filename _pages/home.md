@@ -5,7 +5,7 @@ permalink: /
 author: Weslley
 author_profile: true
 
-excerpt: "Este é meu blog pessoal onde compartilharei conteúdo relacionado ao meu trabalho com Ciência de Dados, Machine Learning, Software e correlatos."
+excerpt: "Data Science, Machine Learning, Software e agregados."
 header:
   overlay_image: /assets/images/matrix_background.jpg
   overlay_filter: 0.7

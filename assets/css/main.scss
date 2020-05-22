@@ -4,23 +4,39 @@
 
 @charset "utf-8";
 
+$serif              : "PT Serif", Georgia, Times, serif;
+$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
+
+$link-color: rgb(54, 54, 54);
+$text-decoration: none;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 html {
-    font-family: "Garamond", Times, serif; // Included by me
-    font-size: 12px; // originally 16px
+    font-family: $serif, Times, serif; // Included by me
+    font-size: 16px; // originally 16px
+    text-align: justify;
+
+    table.center {
+        margin-left:auto; 
+        margin-right:auto;
+    }
+
     @include breakpoint($medium) {
-        font-size: 14px; // originally 18px
+        font-size: 16px; // originally 18px
         font-family: "Garamond", Times, serif; // Included by me
     }
 
     @include breakpoint($large) {
-        font-size: 14px; // originally 20px
+        font-size: 18px; // originally 20px
     }
 
     @include breakpoint($x-large) {
-        font-size: 16px; // originally 22px
+        font-size: 20px; // originally 22px
     }
 }

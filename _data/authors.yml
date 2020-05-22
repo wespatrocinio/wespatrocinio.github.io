@@ -1,8 +1,8 @@
 # /_data/authors.yml
 
 Weslley:
-  name        : "Weslley Souza Patrocinio"
-  bio         : "Data Scientist"
+  name        : "Weslley S. Patrocinio"
+  bio         : "Manager, AI & Machine Learning"
   avatar      : "/assets/images/wes_profile.jpg"
   links:
     - label: "Email"

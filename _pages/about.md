@@ -7,6 +7,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+toc: true
 ---
 
 Meu nome é Weslley, nasci em 1985 e tenho construído minha carreira em desenvolvimento e aplicações de tecnologia desde 2009. O atual foco da minha carreira, desde 2014, tem sido _Data Science_, _Machine Learning_ e correlatos.

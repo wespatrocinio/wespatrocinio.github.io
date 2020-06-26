@@ -3,7 +3,7 @@ layout: single
 title:  "Data Science é metodologia, e não tecnologia"
 author: Weslley
 date:   2017-07-25
-categories: data-science machine-learning
+categories: data-science management
 
 excerpt: "Neste artigo vamos falar um pouco sobre o significado de _Data Science_ e como eu diferencio está área de outras áreas de dados."
 header:

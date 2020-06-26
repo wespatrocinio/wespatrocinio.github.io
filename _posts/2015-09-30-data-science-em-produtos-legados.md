@@ -3,7 +3,7 @@ layout: single
 title:  "Usando Data Science em produtos legados"
 author: Weslley
 date:   2015-09-30
-categories: data-science machine-learning
+categories: data-science management product
 
 excerpt: "Neste artigo vamos falar um pouco sobre alguns pontos de atenção na integração de um produto que já existe há algum tempo e um modelo feito por _Data Scientists_."
 header:

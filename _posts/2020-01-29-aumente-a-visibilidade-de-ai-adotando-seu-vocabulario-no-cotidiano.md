@@ -3,7 +3,7 @@ layout: single
 title:  "Aumente a visibilidade de AI adotando seu vocabulário no cotidiano"
 author: Weslley
 date:   2020-01-29
-categories: data-science machine-learning
+categories: management artificial-intelligence
 
 excerpt: "Se você pretende ter este tipo de tecnologia em seu dia-a-dia, é muito importante que todos ao seu redor saibam falar sobre ela."
 header:

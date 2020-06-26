@@ -3,7 +3,7 @@ layout: single
 title:  "Não incentive o _Night Hero_ em seu time"
 author: Weslley
 date:   2020-01-27
-categories: data-science machine-learning
+categories: management
 
 excerpt: "Neste artigo vamos falar um pouco sobre alguns conceitos básicos da Teoria do Aprendizado Estatístico e como isso é importante no dia-a-dia de um _Data Scientist_."
 header:

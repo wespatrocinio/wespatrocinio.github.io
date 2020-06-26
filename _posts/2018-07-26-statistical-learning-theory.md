@@ -3,7 +3,7 @@ layout: single
 title:  "_Statistical Learning Theory_ — você deveria usar mais do que imagina"
 author: Weslley
 date:   2017-07-25
-categories: data-science machine-learning
+categories: data-science statistics
 
 excerpt: "Neste artigo vamos falar um pouco sobre alguns conceitos básicos da Teoria do Aprendizado Estatístico e como isso é importante no dia-a-dia de um _Data Scientist_."
 header:

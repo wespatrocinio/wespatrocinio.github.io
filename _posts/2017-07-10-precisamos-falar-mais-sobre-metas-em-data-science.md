@@ -3,7 +3,7 @@ layout: single
 title:  "Precisamos falar mais sobre metas em Data Science"
 author: Weslley
 date:   2017-07-10
-categories: data-science machine-learning
+categories: data-science management
 
 excerpt: "Neste artigo vamos falar um pouco sobre a importância de metas para uma iniciativa de _Data Science_ e que riscos podem ser mitigados com isso."
 header:

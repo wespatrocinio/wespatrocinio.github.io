@@ -3,7 +3,7 @@ layout: single
 title:  "Por que precisamos de planejamento?"
 author: Weslley
 date:   2015-10-13
-categories: data-science machine-learning
+categories: management
 
 excerpt: "Neste artigo vamos falar um pouco sobre o meu ponto de visto sobre a importância de um bom planejamento e qual o seu principal valor."
 header:

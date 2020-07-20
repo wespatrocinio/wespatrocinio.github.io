@@ -37,4 +37,22 @@ Ao me colocar no papel de **facilitador**, eu me vi interagindo com inúmeros pr
 
 Do outro lado, me coloquei no papel do **solucionador de problemas**, onde teria contato com um número reduzido de problemas de maneira mais profunda, tendo como papel principal reduzir os impactos negativos causado pelos problemas e aproveitar oportunidade oriundas deles para aumentar os resultados da empresa, papel que traz consigo as seguintes premissas:
 - Eu teria que buscar a melhor solução para o problema (custo-benefício, escalabilidade, manutenção, etc.) independente da ferramenta para tal solução. Ou seja, posso me deparar diversas vezes com uma solução onde não precisarei utilizar _Machine Learning/Data Science_ para aplicar a melhor solução ao problema;
-- Quando pensamos em dores causadas por problemas "gritantes", soluções que tem perspectivas de resultados no curto-prazo ganham uma relevância muito grande durante priorizações, o que pode levar um time a trabalhar nos famosos "puxadinhos" de soluções e causar um problema grande de continuidade no longo prazo. 
+- Quando pensamos em dores causadas por problemas "gritantes", soluções que tem perspectivas de resultados no curto-prazo ganham uma relevância muito grande durante priorizações, o que pode levar um time a trabalhar nos famosos "puxadinhos" de soluções e causar um problema grande de continuidade no longo prazo.
+
+## O que refleti bastante para analisar o dilema
+
+Para comparar tais situações, procurar os pontos fracos e fortes e tomar minha decisão, eu analisei três pontos que considero fundamentais para a execução de um trabalho:
+- Meus valores e crenças sobre o que é um trabalho bem feito dentro da minha área de atuação;
+- Quais são os pontos fortes que possuo e como eles se projetam no desafio em vista;
+- O que me trará mais satisfação e perspectivas futuras;
+
+### Valores e crenças
+
+Toda pessoa possui uma "caixa" de valores e crenças e foi preenchida ao longo do tempo e, espero eu, que vá sendo atualizada com novas experiências e fases da vida. Por mais que pareça óbvio, eu sugiro fortemente que você olhe para essa sua caixa constantemente e avalie se está contente com o que está dentro dela.
+
+No caso desta reflexão, eu identifiquei quais seriam meus principais valores associados à iniciativas de resolver problemas usando tecnologia:
+- **Para escolher uma boa ferramenta, você precisa enxergar claramente qual é o seu problema**. A analogia que faço sempre sobre este assunto é: se você tentar fixar um quadro na parede tendo um martelo e um parafuso em mãos pode até funcionar, mas você poderia ter um processo muito menos doloroso e com melhores resultados se tivesse olhado um pouco melhor para o problema e suas condições de contorno antes de escolher a solução do seu problema. Olhando para _ML/DS_, é esperado que muitas pessoas queiram utilizar estas ferramentas para resolver problemas, dado o _hype_ do momento. Entretanto, é bom lembrar que:
+  - Não existe bala de prata para todos os problemas;
+  - Ferramentas mais sofisticadas exigem bastante conhecimento para manuseio e, se aplicadas de maneira errada, podem gerar mais problemas do que soluções. Como analogia, se uma pessoa com pouco conhecimento de metalurgia tentar fazer uma solda elétrica, ela pode "matar" a peça e gerar efeitos colaterais grandes (problemas no olhos, queimaduras, etc.) se não souber aplicar os EPIs e técnicas adequadas;
+
+- **Problemas complexos exigem tempo de aprendizado**

@@ -17,7 +17,7 @@ header:
 
 # Visão geral
 
-Recentemente eu fui exposto a um dilema profissional interessante: atuar liderando iniciativas que **facilitariam** a utilização de _Machine Learning_ em toda a empresa, ou então assumir iniciativas associadas a um macro-problema e que envolveria o uso de _Machine Learning_ como ferramenta para potencializar a **solução do problema** em si. Eu acabei optando pela segunda opção após entrar em um processo de reflexão sobre o meu perfil, o que me satifaz mais e como consigo contribuir de maneira mais assertiva, e gostaria de compartilhar alguns detalhes desta minha reflexão neste artigo.
+Recentemente eu fui exposto a um dilema profissional interessante: atuar liderando iniciativas que **facilitariam** a utilização de _Machine Learning_ em toda a empresa, ou então assumir iniciativas associadas a um macro-problema e que envolveria o uso de _Machine Learning_ como ferramenta para potencializar a **solução do problema** em si. Eu acabei optando pela segunda opção após entrar em um processo de reflexão sobre o meu perfil, o que me satisfaz mais e como consigo contribuir de maneira mais assertiva, e gostaria de compartilhar alguns detalhes desta minha reflexão neste artigo.
 
 ## Facilitador _VS_ Solucionador de problemas
 
@@ -29,6 +29,12 @@ O ponto principal da minha reflexão foi qual seria a minha abordagem, em ambos 
 
 ### O facilitador
 
-Ao me colocar no papel de um **facilitador**, eu me vi interagindo com inúmeros problemas diferentes de maneira superficial, tentando mapear as principais dores das diversas áreas e traduzindo-as em ações que permitiriam que determinadas iniciativas das áreas fossem executadas. Ao meu ver, este tipo de pensamento tem algumas premissas associadas:
-- Eu estou assumindo que esta ferramenta será amplamente usada pela empresa, o que exige uma série de dependências de outros fatores como proficiência das pessoas em usar tal ferramenta. Por exemplo, se eu construo um reator nuclear em uma empresa metalúrgica esperando que todas as pessoas possam usá-la de maneira adequada e tirando o máximo de seu potencial, talvez eu devesse esperar uns 2-4 anos para que muitos conseguissem estudar o suficiente para ganhar o conhecimento necessário para tal;
-- 
+Ao me colocar no papel de **facilitador**, eu me vi interagindo com inúmeros problemas diferentes de maneira superficial, tentando mapear as principais dores das diversas áreas e traduzindo-as em ações que permitiriam que determinadas iniciativas das áreas fossem executadas. Ao meu ver, este tipo de pensamento tem algumas premissas associadas:
+- Eu estaria assumindo que esta ferramenta será amplamente usada pela empresa, o que exige uma série de dependências de outros fatores como proficiência das pessoas em usar tal ferramenta. Por exemplo, se eu construo um reator nuclear em uma empresa metalúrgica esperando que todas as pessoas possam usá-la de maneira adequada e tirando o máximo de seu potencial, talvez eu devesse esperar uns 2-4 anos para que muitos conseguissem estudar o suficiente para ganhar o conhecimento necessário para tal;
+- Eu estaria abraçando a frase do Maslow que, traduzida pelo popular brasileiro, diz: "Quem vende martelo quer que o mundo acabe em prego".
+
+### O solucionador de problemas
+
+Do outro lado, me coloquei no papel do **solucionador de problemas**, onde teria contato com um número reduzido de problemas de maneira mais profunda, tendo como papel principal reduzir os impactos negativos causado pelos problemas e aproveitar oportunidade oriundas deles para aumentar os resultados da empresa, papel que traz consigo as seguintes premissas:
+- Eu teria que buscar a melhor solução para o problema (custo-benefício, escalabilidade, manutenção, etc.) independente da ferramenta para tal solução. Ou seja, posso me deparar diversas vezes com uma solução onde não precisarei utilizar _Machine Learning/Data Science_ para aplicar a melhor solução ao problema;
+- Quando pensamos em dores causadas por problemas "gritantes", soluções que tem perspectivas de resultados no curto-prazo ganham uma relevância muito grande durante priorizações, o que pode levar um time a trabalhar nos famosos "puxadinhos" de soluções e causar um problema grande de continuidade no longo prazo. 

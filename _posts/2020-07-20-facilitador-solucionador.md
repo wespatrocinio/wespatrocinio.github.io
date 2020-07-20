@@ -83,4 +83,4 @@ Além da satisfação em si, avaliei as perspectivas futuras. Supondo que tivess
 
 ## Conclusões
 
-Juntando todos os pontos acima, junto com outros fatores não abordados aqui (questões pessoais, financeiras, conversas com pessoas, etc.), decidi seguir com o perfil de solucionador de problemas e aceitar o desafio associado a isso. Entendo que, por ocupar papéis de liderança, eu também tenho que **facilitar** o cotidiano do time e das outras pessoas envolvidas. Entretanto, a facilitação será um meio para resolver os problemas, e não o fim.
+Juntando todos os pontos acima, junto com outros fatores não abordados aqui (questões pessoais, financeiras, conversas com pessoas, etc.), decidi seguir com o perfil de **solucionador de problemas** e aceitar o desafio associado a isso. Entendo que, por ocupar papéis de liderança, eu também tenho que **facilitar** o cotidiano do time e das outras pessoas envolvidas. Entretanto, a facilitação será um meio para resolver os problemas, e não o fim.

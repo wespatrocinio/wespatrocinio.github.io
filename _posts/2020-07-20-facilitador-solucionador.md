@@ -3,7 +3,7 @@ layout: single
 title:  "Você já parou para pensar se é um facilitador ou um solucionador de problemas?"
 author: Weslley
 date:   2020-07-20
-categories: science
+categories: management data-science machine-learning
  
 excerpt: "Se você tem habilidade e/ou se sente motivado a resolver problemas fim-a-fim, eu sugiro que você olhe para os problemas de maneira vertical"
 header:
